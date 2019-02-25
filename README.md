@@ -12,11 +12,11 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 02. In GitBash, navigate to your `APCSA` folder.
 03. Clone my skeleton repository from [GitHub](https://github.com/). This will make a copy of my repository and store it locally.
 ```
-git clone git@github.com:rwilson-ucvts/searching-and-sorting-skeleton.git
+git clone git@github.com:rwilson-ucvts/java-searching-and-sorting-skeleton.git
 ```
-04. The cloning process will have created a folder named `searching-and-sorting-skeleton`. Rename this folder to `searching-and-sorting`.
+04. The cloning process will have created a folder named `java-searching-and-sorting-skeleton`. Rename this folder to `searching-and-sorting`.
 ```
-mv searching-and-sorting-skeleton searching-and-sorting
+mv java-searching-and-sorting-skeleton searching-and-sorting
 ```
 05. Change directories to get into your `searching-and-sorting` folder.
 ```
